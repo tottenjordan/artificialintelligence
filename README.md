@@ -1,1 +1,1 @@
-# Repo for course work in artofficial intellignece and deep learning
+# Repo for course work in artificial intellignece and deep learning
